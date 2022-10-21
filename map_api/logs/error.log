@@ -1,0 +1,36 @@
+[2022-10-21T00:09:17.738] [ERROR] error - / GET 404
+    InternalServerError: 发出的请求针对的是不存在的记录，服务器没有进行操作。
+    at Object.throw (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa/lib/context.js:97:11)
+    at __WEBPACK_DEFAULT_EXPORT__ (webpack-internal:///./src/common/ErrorHandle.js:34:16)
+    at async cors (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/@koa/cors/index.js:61:32)
+    at async serve (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa-static/index.js:53:9)
+    at async serve (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa-static/index.js:53:9)
+    at async __WEBPACK_DEFAULT_EXPORT__ (webpack-internal:///./src/common/Logger.js:10:3)
+    
+[2022-10-21T00:09:25.133] [ERROR] error - /index.html GET 404
+    InternalServerError: 发出的请求针对的是不存在的记录，服务器没有进行操作。
+    at Object.throw (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa/lib/context.js:97:11)
+    at __WEBPACK_DEFAULT_EXPORT__ (webpack-internal:///./src/common/ErrorHandle.js:34:16)
+    at async cors (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/@koa/cors/index.js:61:32)
+    at async serve (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa-static/index.js:53:9)
+    at async serve (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa-static/index.js:53:9)
+    at async __WEBPACK_DEFAULT_EXPORT__ (webpack-internal:///./src/common/Logger.js:10:3)
+    
+[2022-10-21T00:09:25.309] [ERROR] error - /favicon.ico GET 404
+    InternalServerError: 发出的请求针对的是不存在的记录，服务器没有进行操作。
+    at Object.throw (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa/lib/context.js:97:11)
+    at __WEBPACK_DEFAULT_EXPORT__ (webpack-internal:///./src/common/ErrorHandle.js:34:16)
+    at async cors (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/@koa/cors/index.js:61:32)
+    at async serve (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa-static/index.js:53:9)
+    at async serve (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa-static/index.js:53:9)
+    at async __WEBPACK_DEFAULT_EXPORT__ (webpack-internal:///./src/common/Logger.js:10:3)
+    
+[2022-10-21T00:10:32.396] [ERROR] error - /favicon.ico GET 404
+    InternalServerError: 发出的请求针对的是不存在的记录，服务器没有进行操作。
+    at Object.throw (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa/lib/context.js:97:11)
+    at __WEBPACK_DEFAULT_EXPORT__ (webpack-internal:///./src/common/ErrorHandle.js:34:16)
+    at async cors (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/@koa/cors/index.js:61:32)
+    at async serve (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa-static/index.js:53:9)
+    at async serve (/Users/lvnianci/Desktop/github/echarts_map_demo/map_api/node_modules/koa-static/index.js:53:9)
+    at async __WEBPACK_DEFAULT_EXPORT__ (webpack-internal:///./src/common/Logger.js:10:3)
+    
